@@ -1,0 +1,194 @@
+[
+    {
+        "name": "Turtle Rock",
+        "category": "Rivers",
+        "city": "Twentynine Palms",
+        "state": "California",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Joshua Tree National Park",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Joshua Tree National Park is an American national park in southeastern California, east of San Bernardino and Los Angeles and north of Palm Springs. It is named after the Joshua trees (Yucca brevifolia) native to the Mojave Desert. Originally declared a national monument in 1936, Joshua Tree was redesignated as a national park in 1994 when the U.S. Congress passed the California Desert Protection Act. Encompassing a total of 795,156 acres (1,242.4 sq mi; 3,217.9 km2) – slightly larger than the state of Rhode Island – the park includes 429,690 acres (671.4 sq mi; 1,738.9 km2) of designated wilderness. Straddling San Bernardino and Riverside Counties, the park includes parts of two deserts, each an ecosystem whose characteristics are determined primarily by elevation: the higher Mojave Desert and the lower Colorado Desert. The Little San Bernardino Mountains traverse the southwest edge of the park.",
+        "imageName": "turtlerock"
+    },
+    {
+        "name": "Silver Salmon Creek",
+        "category": "Lakes",
+        "city": "Port Alsworth",
+        "state": "Alaska",
+        "id": 1002,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -152.665167,
+            "latitude": 59.980167
+        },
+        "description": "Lake Clark National Park and Preserve is an American national park in southwest Alaska, about 100 miles (160 km) southwest of Anchorage. The park was first proclaimed a national monument in 1978, then established as a national park and preserve in 1980 by the Alaska National Interest Lands Conservation Act. The park includes many streams and lakes vital to the Bristol Bay salmon fishery, including its namesake Lake Clark. A wide variety of recreational activities may be pursued in the park and preserve year-round. The park protects rainforests along the coastline of Cook Inlet, alpine tundra, glaciers, glacial lakes, major salmon-bearing rivers, and two volcanoes, Mount Redoubt and Mount Iliamna. Mount Redoubt is active, erupting in 1989 and 2009. The wide variety of ecosystems in the park mean that virtually all major Alaskan animals, terrestrial and marine, may be seen in and around the park. Salmon, particularly sockeye salmon, play a major role in the ecosystem and the local economy. Large populations of brown bears are attracted to feed on the spawning salmon in the Kijik River and at Silver Salmon Creek. Bear watching is a common activity in the park.No roads lead to the park, which can only be reached by boat or small aircraft, typically floatplanes. The major settled area in the park and preserve is Port Alsworth on Lake Clark. Five other settlements are near the park, populated mainly by Dena'ina natives. Prior to the park's establishment, isolated cabins were scattered around the region, the most well-known belonging to Richard Proenneke, whose films documenting his solitary life at Twin Lakes were made into Alone in the Wilderness in 2003.",
+        "imageName": "silversalmoncreek"
+    },
+    {
+        "name": "Chilkoot Trail",
+        "category": "Mountains",
+        "city": "Skagway",
+        "state": "Alaska",
+        "id": 1003,
+        "isFeatured": false,
+        "isFavorite": true,
+        "park": "Klondike Gold Rush National Historical Park",
+        "coordinates": {
+            "longitude": -135.334571,
+            "latitude": 59.560551
+        },
+        "description": "The Chilkoot Trail is a 33-mile (53 km) trail through the Coast Mountains that leads from Dyea, Alaska, in the United States, to Bennett, British Columbia, in Canada.It was a major access route from the coast to Yukon goldfields in the late 1890s. The trail became obsolete in 1899 when a railway was built from Dyea's neighbor port Skagway along the parallel White Pass trail.[4] The Chilkoot Trail and Dyea Site was designated a U.S. National Historic Landmark in 1978. In 1987, the trail was designated a National Historic Site of Canada.[5] In 1998, the centennial of the gold rush, Chilkoot Trail National Historic Site in British Columbia joined with the U.S. park to create the Klondike Gold Rush National Historical Park.",
+        "imageName": "chilkoottrail"
+    },
+    {
+        "name": "St. Mary Lake",
+        "category": "Lakes",
+        "city": "Browning",
+        "state": "Montana",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.536248,
+            "latitude": 48.69423
+        },
+        "description": "Saint Mary Lake is the second-largest lake in Glacier National Park, in the U.S. state of Montana.Located on the east side of the park, Going-to-the-Sun Road parallels the lake along its north shore. At an elevation of 4,484 feet (1,367 m), Saint Mary Lake's waters are colder and lie almost 1,500 feet (460 m) higher in elevation than Lake McDonald, the largest lake in the park, which is located on the west side of the Continental Divide. Here, the great plains end and the Rocky Mountains begin in an abrupt 5,000-foot (1,500 m) elevation change, with Little Chief Mountain posing a formidable southern flank above the west end of the lake.The lake is 9.9 miles (15.9 km) long and 300 feet (91 m) deep with a surface area of 3,923 acres (15.88 km2). The waters of the lake rarely rise above 50 °F (10 °C) and are home to various species of trout. During the winter, the lake is often frozen over with ice up to 4 feet (1.2 m) thick.The opening scene in the 1980 Stanley Kubrick film The Shining was shot at Saint Mary Lake.Wild Goose Island rises a mere 14 feet (4.3 m) above the lake. The island is dwarfed by the lake and surrounding mountains, yet it is of one of the most frequently photographed locations along the Going-to-the-Sun Road.",
+        "imageName": "stmarylake"
+    },
+    {
+        "name": "Twin Lake",
+        "category": "Lakes",
+        "city": "Twin Lakes",
+        "state": "Alaska",
+        "id": 1005,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Lake Clark National Park and Preserve",
+        "coordinates": {
+            "longitude": -153.849883,
+            "latitude": 60.641684
+        },
+        "description": "Twin Lake is an unincorporated community in Muskegon County of the U.S. state of Michigan.  It is a census-designated place (CDP) for statistical purposes. Local government services are provided by Dalton Township.  As of the 2000 census, the community population was 1,613. It is the home of Blue Lake Fine Arts Camp, the YMCA's Camp Pinewood, the Boy Scouts'  Gerber Scout Reservation and Owasippe Scout Reservation.The Twin Lake CDP includes only the areas surrounding the Twin Lakes and the nearby North Lake and West Lakes in the northeast corner of Dalton Township. The Twin Lake ZIP code 49457 serves a much larger area, including much of northern and eastern Dalton Township, most of Cedar Creek Township to the east, parts of northern Egelston Township and Muskegon Township to the south, much of Blue Lake Township to the north and the southwest corner of Holton Township.",
+        "imageName": "twinlake"
+    },
+    {
+        "name": "Lake McDonald",
+        "category": "Mountains",
+        "city": "West Glacier",
+        "state": "Montana",
+        "id": 1006,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Glacier National Park",
+        "coordinates": {
+            "longitude": -113.934831,
+            "latitude": 48.56002
+        },
+        "description": "Lake McDonald is the largest  lake in Glacier National Park. It is located at 48°35′N 113°55′W in Flathead County in the U.S. state of Montana. Lake McDonald is approximately 10 miles (16 km) long, and over a mile (1.6 km) wide and 472 feet (130 m) deep, filling a valley formed by a combination of erosion and glacial activity. Lake McDonald lies at an elevation of 3,153 feet (961 m) and is on the west side of the Continental Divide. Going-to-the-Sun Road parallels the lake along its southern shoreline. The surface area of the lake is 6,823 acres (27.6 km2).The lake is home to numerous native species of trout, and other game fish.  Catchable species include: westslope cutthroat trout, rainbow trout, bull trout (char), lake trout (char), Lake Superior whitefish, mountain whitefish, kokanee salmon (landlocked sockeye), and suckers.  However, the lake is nutrient-poor and is not considered a prime fishing destination. Grizzly bears, black bear, moose, and mule deer are found in many places near the lake but are most common on the north shore. The lake is surrounded by a dense coniferous forest dominated by various species of spruce, fir, and larch.At the westernmost section of the lake in Apgar there is a National Park Service visitor center with limited lodging and dining facilities. Lake McDonald Lodge is the largest lodging facility on the lake and is approximately 5 miles (8.0 km) east along the Going-to-the-Sun Road. The lodge was constructed in 1913–14 to resemble a rustic hunting lodge with Swiss-influenced architecture.McDonald Creek flows into and drains from the lake, and empties into the Middle Fork Flathead River shortly after.",
+        "imageName": "lakemcdonald"
+    },
+    {
+        "name": "Charley Rivers",
+        "category": "Rivers",
+        "city": "Eaking",
+        "state": "Alaska",
+        "id": 1007,
+        "isFeatured": true,
+        "isFavorite": false,
+        "park": "Charley Rivers National Preserve",
+        "coordinates": {
+            "longitude": -143.122586,
+            "latitude": 65.350021
+        },
+        "description": "Yukon–Charley Rivers National Preserve is a United States national preserve located in east central Alaska along the border with Canada. Managed by the National Park Service, the preserve encompasses 130 miles (208 km) of the 1,800-mile (3,000 km) Yukon River and the entire Charley River basin. The preserve protects the undeveloped Charley River and a significant portion of the upper Yukon.  The interior Alaskan region experiences extremes of weather, with temperatures that can vary from −50 °F (−46 °C) in winter to 97 °F (36 °C) in summertime. The Yukon provided a means of access to the region, which is entirely roadless,  during the late 19th century and early 20th centuries. Gold rushes in Alaska brought prospectors, who operated gold dredges to recover significant quantities of placer gold from area creeks. Today the preserve includes part of the route of the annual Yukon Quest dogsled race, which runs every February. During the summer float trips are popular on the Yukon and Charley Rivers.",
+        "imageName": "charleyrivers"
+    },
+    {
+        "name": "Icy Bay",
+        "category": "Mountains",
+        "city": "Icy Bay",
+        "state": "Alaska",
+        "id": 1008,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Wrangell-St. Elias National Park and Preserve",
+        "coordinates": {
+            "longitude": -141.518167,
+            "latitude": 60.089917
+        },
+        "description": "Wrangell–St. Elias National Park and Preserve is an American national park and preserve managed by the National Park Service in south central Alaska. The park and preserve were established in 1980 by the Alaska National Interest Lands Conservation Act. The protected areas are included in an International Biosphere Reserve and are part of the Kluane/Wrangell–St. Elias/Glacier Bay/Tatshenshini-Alsek UNESCO World Heritage Site. The park and preserve form the largest area managed by the National Park Service with a total of 13,175,799.07 acres (20,587.18605 sq mi; 53,320.5671 km2), an expanse larger than nine U.S. states. 8,323,147.59 acres (13,004.91811 sq mi; 33,682.5833 km2) are designated as the national park and the remaining 4,852,652.14 acres (7,582.26897 sq mi; 19,637.9865 km2) are designated as the preserve. The area designated as the national park alone is larger than the 47 smallest American national parks combined (there are currently 63 national parks), and its area makes up over 15% of all national park land in the United States.The park includes a large portion of the Saint Elias Mountains, which include most of the highest peaks in the United States and Canada, yet are within 10 miles (16 km) of tidewater, one of the highest reliefs in the world. Wrangell–St. Elias borders on Canada's Kluane National Park and Reserve to the east and approaches another American national park to the south, Glacier Bay. The chief distinction between park and preserve lands is that sport hunting is prohibited in the park and permitted in the preserve. In addition, 9,078,675 acres (36,740.09 km2) of the park and preserve are designated as the largest single wilderness in the United States.Wrangell–St. Elias National Monument was designated on December 1, 1978, by President Jimmy Carter using the Antiquities Act, pending final legislation to resolve the allotment of public lands in Alaska. Establishment as a national park and preserve followed the passage of the Alaska National Interest Lands Conservation Act in 1980. The park has long, extremely cold winters and a short summer season. Plate tectonics are responsible for the uplift of the mountain ranges that cross the park. The park's extreme high point is Mount Saint Elias at 18,008 feet (5,489 m), the second tallest mountain in both the United States and Canada. The park has been shaped by the competing forces of volcanism and glaciation. Mount Wrangell is an active volcano, one of several volcanoes in the western Wrangell Mountains. In the St. Elias Range, Mount Churchill has erupted explosively within the past 2,000 years. The park's glacial features include Malaspina Glacier, the largest piedmont glacier in North America, Hubbard Glacier, the longest tidewater glacier in Alaska, and Nabesna Glacier, the world's longest valley glacier. The Bagley Icefield covers much of the park's interior, which includes 60% of the permanently ice-covered terrain in Alaska. At the center of the park, the boomtown of Kennecott exploited one of the world's richest deposits of copper from 1903 to 1938. The abandoned mine buildings and mills comprise a National Historic Landmark district.",
+        "imageName": "icybay"
+    },
+    {
+        "name": "Rainbow Lake",
+        "category": "Lakes",
+        "city": "Willow",
+        "state": "Alaska",
+        "id": 1009,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "State Recreation Area",
+        "coordinates": {
+            "longitude": -150.086103,
+            "latitude": 61.694334
+        },
+        "description": "",
+        "imageName": "rainbowlake"
+    },
+    {
+        "name": "Hidden Lake",
+        "category": "Lakes",
+        "city": "Newhalem",
+        "state": "Washington",
+        "id": 1010,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "North Cascades National Park",
+        "coordinates": {
+            "longitude": -121.17799,
+            "latitude": 48.495442
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "hiddenlake"
+    },
+    {
+        "name": "Chincoteague",
+        "category": "Rivers",
+        "city": "Chincoteague",
+        "state": "Virginia",
+        "id": 1011,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Chincoteague National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -75.383212,
+            "latitude": 37.91531
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "chincoteague"
+    },
+    {
+        "name": "Lake Umbagog",
+        "category": "Lakes",
+        "city": "Errol",
+        "state": "New Hampshire",
+        "id": 1012,
+        "isFeatured": false,
+        "isFavorite": false,
+        "park": "Umbagog National Wildlife Refuge",
+        "coordinates": {
+            "longitude": -71.056816,
+            "latitude": 44.747408
+        },
+        "description": "Suscipit inceptos est felis purus aenean aliquet adipiscing diam venenatis, augue nibh duis neque aliquam tellus condimentum sagittis vivamus, cras ante etiam sit conubia elit tempus accumsan libero, mattis per erat habitasse cubilia ligula penatibus curae. Sagittis lorem augue arcu blandit libero molestie non ullamcorper, finibus imperdiet iaculis ad quam per luctus neque, ligula curae mauris parturient diam auctor eleifend laoreet ridiculus, hendrerit adipiscing sociosqu pretium nec velit aliquam. Inceptos egestas maecenas imperdiet eget id donec nisl curae congue, massa tortor vivamus ridiculus integer porta ultrices venenatis aliquet, curabitur et posuere blandit magnis dictum auctor lacinia, eleifend dolor in ornare vulputate ipsum morbi felis. Faucibus cursus malesuada orci ultrices diam nisl taciti torquent, tempor eros suspendisse euismod condimentum dis velit mi tristique, a quis etiam dignissim dictum porttitor lobortis ad fermentum, sapien consectetur dui dolor purus elit pharetra. Interdum mattis sapien ac orci vestibulum vulputate laoreet proin hac, maecenas mollis ridiculus morbi praesent cubilia vitae ligula vel, sem semper volutpat curae mauris justo nisl luctus, non eros primis ultrices nascetur erat varius integer.",
+        "imageName": "umbagog"
+    }
+]
