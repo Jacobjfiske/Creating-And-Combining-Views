@@ -2,7 +2,6 @@
 //  Badge.swift
 //  Landmarks
 //
-//  Created by Jacob fiske on 10/21/22.
 //  Copyright © 2022 Apple. All rights reserved.
 //
 

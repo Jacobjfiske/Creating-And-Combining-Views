@@ -2,9 +2,7 @@
 //  CategoryHome.swift
 //  Landmarks
 //
-//  Created by Jacob fiske on 12/8/22.
-//  Copyright © 2022 Apple. All rights reserved.
-//
+//  Created by Jacob fiske
 
 import SwiftUI
 

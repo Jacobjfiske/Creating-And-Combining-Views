@@ -2,9 +2,7 @@
 //  LandmarkRow.swift
 //  Landmarks
 //
-//  Created by Jacob fiske on 8/30/22.
-//  Copyright © 2022 Apple. All rights reserved.
-//
+//  Created by Jacob fiske
 
 import SwiftUI
 

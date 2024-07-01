@@ -2,7 +2,6 @@
 //  HexagonParameters.swift
 //  Landmarks
 //
-//  Created by Jacob fiske on 9/14/22.
 //  Copyright © 2022 Apple. All rights reserved.
 //
 
