@@ -1,1 +1,1 @@
-Exploration of SwiftUI using Apple's "Landmarks" as reference. This application demonstrates the swift MVVM architecture and relationships. This includes: views, lists, navigation, useer input, CoreGraphics design and layout, and interfacing with UIKit. 
+Exploration of SwiftUI using Apple's "Landmarks" as reference. This application demonstrates the swift MVVM architecture and relationships. This includes: views, lists, navigation, user input, CoreGraphics design and layout, and interfacing with UIKit. 
